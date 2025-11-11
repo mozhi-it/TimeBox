@@ -63,16 +63,6 @@ categories: ['工作', '学习', '生活', '健康', '娱乐'],
 5. **跨平台**：支持所有现代浏览器
 6. **离线可用**：纯前端实现，无需网络连接
 
-## 🤝 贡献指南
-
 欢迎提交 Issue 和 Pull Request 来改进这个项目！
-
-1. Fork 本项目
-2. 创建你的特性分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交你的修改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 打开一个 Pull Request
-
-本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情
 
 **Made with ❤️ using HTML, CSS & JavaScript**
