@@ -49,7 +49,4 @@ body.dark {
 ```javascript
 categories: ['工作', '学习', '生活', '健康', '娱乐'],
 ```
-
 欢迎提交 Issue 和 Pull Request 来改进这个项目！
-
-**Made with ❤️ using HTML, CSS & JavaScript**
